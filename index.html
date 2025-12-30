@@ -10,6 +10,8 @@
         h2 { margin-top: 30px; color: #0056b3; }
         .date { color: #666; font-style: italic; }
         .box { background: #f9f9f9; padding: 15px; border-left: 5px solid #0056b3; margin: 20px 0; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
     </style>
 </head>
 <body>
@@ -20,35 +22,36 @@
     <p>This privacy policy applies to the <strong>uc-remote</strong> mobile application (herein referred to as "the App"). By using the App, you agree to the collection and use of information in accordance with this policy.</p>
 
     <div class="box">
-        <strong>Note:</strong> uc-remote is a personal project. We prioritize user privacy and do not sell user data to third parties.
+        <strong>Important Status Disclosure:</strong> uc-remote is an unofficial, third-party application. It is not affiliated with, sponsored by, or endorsed by Unfolded Circle.
     </div>
 
-    <h2>1. Data Collection and Use</h2>
-    <p>We do not require users to register an account to use the basic features of uc-remote. However, for the App to function and for us to improve the service, we may collect the following:</p>
+    <h2>1. Data Collection and Local Connectivity</h2>
+    <p>The App operates primarily on your local area network (LAN) to communicate with your Unfolded Circle Remote. To provide these features, we access the following:</p>
     <ul>
-        <li><strong>Device Information:</strong> Model, OS version, and unique device identifiers.</li>
-        <li><strong>Usage Data:</strong> Information on how you interact with the App (e.g., button clicks).</li>
-        <li><strong>Crash Reports:</strong> Technical logs generated when the App encounters an error.</li>
+        <li><strong>Local Network Access:</strong> We collect and use local IP addresses, MAC addresses, and device port information to discover and control your remote.</li>
+        <li><strong>Device Identifiers:</strong> We collect hardware identifiers (e.g., Remote Serial Numbers) solely for device-to-device authentication and connection persistence.</li>
+        <li><strong>Authentication Tokens:</strong> Tokens used to authorize commands with your hardware are stored locally on your device.</li>
     </ul>
 
-    <h2>2. Third-Party Services</h2>
-    <p>The App utilizes third-party SDKs that may collect information used to identify you. You can find the privacy policies of these providers below:</p>
+    <h2>2. Data Security & Encryption</h2>
+    <p>We take the security of your home automation setup seriously:</p>
+    <ul>
+        <li><strong>Encrypted Storage:</strong> Sensitive information, including authentication tokens and remote credentials, is stored on your device using <strong>AES-256 GCM Encrypted SharedPreferences</strong>.</li>
+        <li><strong>Transit Security:</strong> While local communication with some hardware may occur over HTTP on Port 80, all data transmitted off the device to third-party services is encrypted using standard HTTPS/TLS protocols.</li>
+    </ul>
+
+    <h2>3. Third-Party Services</h2>
+    <p>The App utilize third-party SDKs for performance and stability. These providers may collect data according to their own policies:</p>
     <ul>
         <li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li>
         <li><a href="https://firebase.google.com/support/privacy/" target="_blank">Firebase Crashlytics & Analytics</a></li>
     </ul>
 
-    <h2>3. Data Security</h2>
-    <p>We value your trust in providing us your information. All data transmitted between the App and our service providers is encrypted in transit using industry-standard HTTPS/TLS protocols.</p>
+    <h2>4. User Rights and Data Deletion</h2>
+    <p>Users have full control over their data. You can delete all locally stored remote configurations, tokens, and identifiers at any time by selecting the "Delete Remote" option within the App settings. This action immediately wipes all associated encrypted data from your device.</p>
 
-    <h2>4. Children’s Privacy</h2>
-    <p>This App does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age.</p>
-
-    <h2>5. User Rights & Data Deletion</h2>
-    <p>Users have the right to request the deletion of any data we have collected. Since we do not use accounts, most data is associated with your anonymous Device ID. To request data deletion, please contact us at the email below.</p>
-
-    <h2>6. Contact Us</h2>
-    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:</p>
+    <h2>5. Contact Us</h2>
+    <p>If you have questions about this policy or need to request a data review, please contact us at:</p>
     <p><strong>Email: meir.miyara@gmail.com</strong></p>
 
 </body>
