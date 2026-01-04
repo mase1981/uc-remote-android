@@ -5,7 +5,7 @@
 ![UC Remote](https://img.shields.io/badge/UC%20Remote-Android%20App-blue)
 [![Google Play](https://img.shields.io/badge/Google%20Play-Available-brightgreen)](https://play.google.com/store/apps)
 ![License](https://img.shields.io/badge/license-MPL--2.0-blue?style=flat-square)
-[![Version](https://img.shields.io/badge/version-1.4.4-blue?style=flat-square)](https://github.com/mase1981/uc-remote-android/releases)
+[![Version](https://img.shields.io/badge/version-1.4.5-blue?style=flat-square)](https://github.com/mase1981/uc-remote-android/releases)
 [![Community Forum](https://img.shields.io/badge/community-forum-blue?style=flat-square)](https://community.unfoldedcircle.com/)
 [![Discord](https://badgen.net/discord/online-members/zGVYf58)](https://discord.gg/zGVYf58)
 
