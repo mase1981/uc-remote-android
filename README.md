@@ -1,5 +1,5 @@
 # UC Remote Android - Native Control for Unfolded Circle Remote 2/3
-
+## APP IS IN CLOSED BETA; OFFICIAL RELEASE MID TO END JANUARY 2026
 <div align="center">
 
 ![UC Remote](https://img.shields.io/badge/UC%20Remote-Android%20App-blue)
