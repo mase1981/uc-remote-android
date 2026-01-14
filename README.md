@@ -1,4 +1,5 @@
 # UC Remote Android - Native Control for Unfolded Circle Remote 2/3
+
 <div align="center">
 
 ![UC Remote](https://img.shields.io/badge/UC%20Remote-Android%20App-blue)
@@ -17,13 +18,13 @@
 
 ## 🌟 Overview
 
-UC Remote Android is a fully-featured native Android companion app for Unfolded Circle Remote 2 and Remote 3 devices. Built with 100% Kotlin, it provides comprehensive entity management, real-time WebSocket updates, custom UI pages, complete profile support, and production-grade reliability with Firebase Crashlytics integration.
+UC Remote Android is a fully-featured native Android companion app for Unfolded Circle Remote 2 and Remote 3 devices. Built with 100% Kotlin, it provides comprehensive entity management, real-time WebSocket updates, custom UI pages, complete profile support, and production-grade reliability.
 
 ### Why UC Remote Android?
 
-- 🎯 **Complete Feature Parity** - All iOS app features, natively on Android
+- 🎯 **Native Experience** - Fast, responsive, and built specifically for Android
 - ⚡ **Real-Time Updates** - WebSocket-based instant entity state synchronization
-- 🎨 **Beautiful UI** - Material Design 3 with iOS-inspired glass effects
+- 🎨 **Beautiful UI** - Material Design 3 with modern glass-morphism effects
 - 🔄 **Auto-Recovery** - Unlimited WebSocket reconnection with exponential backoff
 - 🛡️ **Production Ready** - Firebase Crashlytics for stability monitoring
 - 📱 **Universal** - Phones, tablets, and foldables fully supported
@@ -111,7 +112,7 @@ This app and all my integrations represent hundreds of hours of development and 
 - **Custom Commands** - Execute any configured entity command
 - **Haptic Feedback** - Tactile confirmation on press
 
-#### **Remote Entities** ⭐ *NEW*
+#### **Remote Entities**
 - **IR/RF Control** - Send infrared and radio frequency commands
 - **Button Grid Display** - Visual remote control layout
 - **Custom Button Mapping** - User-defined button configurations
@@ -119,7 +120,7 @@ This app and all my integrations represent hundreds of hours of development and 
 - **Activity Integration** - Remote buttons within activity pages
 - **Haptic Feedback** - Button press confirmation
 
-#### **Sensors** ⭐ *NEW*
+#### **Sensors**
 - **Comprehensive Support** - Temperature, humidity, battery, motion, binary sensors
 - **Nested Data Parsing** - Support for complex sensor data structures
 - **Unit Display** - Automatic unit formatting (°C, °F, %, lux, etc.)
@@ -136,7 +137,7 @@ This app and all my integrations represent hundreds of hours of development and 
 - **Custom Pages** - Activity-specific UI page configurations
 - **Quick Access** - Dedicated activities list with search
 
-#### **Activity Pages** ⭐ *ENHANCED*
+#### **Activity Pages**
 - **Media Integration** - Now playing display with album art
 - **Remote Integration** - Full remote entity support within activities
 - **Entity Groups** - Organized control of activity entities
@@ -149,7 +150,7 @@ This app and all my integrations represent hundreds of hours of development and 
 #### **Custom Page Management**
 - **Unlimited Pages** - Create as many custom pages as needed
 - **Page Operations** - Add, remove, rename, reorder with drag-drop
-- **Auto Grid Layout** ⭐ *NEW* - Automatic button arrangement based on screen size
+- **Auto Grid Layout** - Automatic button arrangement based on screen size
 - **Responsive Design** - Adapts to phones (3 columns) and tablets (4-6 columns)
 - **Page Persistence** - Saves all configurations locally and syncs to Remote
 - **Page Indicators** - Animated dot indicators with smooth transitions
@@ -157,13 +158,13 @@ This app and all my integrations represent hundreds of hours of development and 
 #### **Entity Buttons**
 - **Entity Linking** - Connect any entity type to buttons
 - **Custom Icons** - Support for Material, FontAwesome Pro, and UC Icons
-- **FontAwesome Pro Fallback** ⭐ *NEW* - Readable text for missing Pro icons
+- **FontAwesome Pro Fallback** - Readable text for missing Pro icons
 - **Icon Customization** - Change icons per button
 - **Button Labels** - Customizable text display
 - **State Colors** - Visual entity state feedback
 - **Tap Actions** - Single tap to control entities
 
-#### **Icon System** ⭐ *ENHANCED*
+#### **Icon System**
 - **FontAwesome Pro Support** - Full FA Pro icon set with text fallback
 - **UC Icons** - Native Unfolded Circle icon font
 - **Material Icons** - Android Material Design icons
@@ -193,13 +194,13 @@ This app and all my integrations represent hundreds of hours of development and 
 
 #### **WebSocket Integration**
 - **Live State Updates** - <100ms entity state synchronization
-- **Unlimited Reconnection** ⭐ *NEW* - Auto-reconnect with exponential backoff
+- **Unlimited Reconnection** - Auto-reconnect with exponential backoff
 - **Connection Recovery** - Automatic recovery after network interruptions
 - **State Synchronization** - All entities stay perfectly in sync
 - **Low Latency** - Optimized WebSocket communication
 - **Connection Status** - Visual feedback of WebSocket state
 
-#### **Production Reliability** ⭐ *NEW*
+#### **Production Reliability**
 - **Firebase Crashlytics** - Crash reporting and analytics
 - **Error Recovery** - Graceful handling of network/API errors
 - **Memory Management** - Optimized lifecycle with repeatOnLifecycle
@@ -228,7 +229,7 @@ This app and all my integrations represent hundreds of hours of development and 
 
 #### **Material Design 3**
 - **Modern Components** - Latest Material Design 3 components
-- **iOS-Inspired Effects** - Polished glass-morphism backgrounds
+- **Glass Effects** - Polished semi-transparent backgrounds
 - **Smooth Animations** - 60fps transitions and interactions
 - **Responsive Layout** - Adapts to all screen sizes and orientations
 - **Haptic Feedback** - Tactile confirmation for all interactions
@@ -258,7 +259,7 @@ This app and all my integrations represent hundreds of hours of development and 
 - **Tablets (10"+)** - 5-6 column layouts with spacing
 - **Foldables** - Adaptive layouts for folded/unfolded states
 - **Portrait & Landscape** - Full orientation support
-- **Auto Grid Adjustment** ⭐ *NEW* - Dynamic column calculation
+- **Auto Grid Adjustment** - Dynamic column calculation
 
 #### **Android Versions**
 - **Minimum SDK** - Android 8.0 Oreo (API 26)
