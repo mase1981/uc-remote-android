@@ -1,9 +1,8 @@
 # UC Remote Android - Native Control for Unfolded Circle Remote 2/3
-## APP IS IN CLOSED BETA; OFFICIAL RELEASE MID TO END JANUARY 2026
 <div align="center">
 
 ![UC Remote](https://img.shields.io/badge/UC%20Remote-Android%20App-blue)
-[![Google Play](https://img.shields.io/badge/Google%20Play-Available-brightgreen)]([https://play.google.com/store/apps](https://play.google.com/store/apps/details?id=com.ucremote.android))
+[![Google Play](https://img.shields.io/badge/Google%20Play-Available-brightgreen)](https://play.google.com/store/apps/details?id=com.ucremote.android)
 ![License](https://img.shields.io/badge/license-MPL--2.0-blue?style=flat-square)
 [![Version](https://img.shields.io/badge/version-1.4.5-blue?style=flat-square)](https://github.com/mase1981/uc-remote-android/releases)
 [![Community Forum](https://img.shields.io/badge/community-forum-blue?style=flat-square)](https://unfolded.community/)
@@ -273,76 +272,34 @@ This app and all my integrations represent hundreds of hours of development and 
 
 ## 📸 Screenshots
 
-### Activities & Media Control
+### Activities & Remote Control
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d86d36a6-ceaf-4004-90ac-77653cc01033" width="250" alt="Activities List" />
-  <img src="https://github.com/user-attachments/assets/4a30f43f-8a2f-4371-884a-db8378add168" width="250" alt="Activity Media Player" />
-  <img src="https://github.com/user-attachments/assets/8bfbc28e-a98e-42ef-bca7-f39088a2a37a" width="250" alt="Activity Remote Buttons" />
+  <img src="assets/activities_list.png" width="250" alt="Activities List" />
+  <img src="assets/activity_controls_ps5.png" width="250" alt="PS5 Remote Control" />
+  <img src="assets/activity_background_ps5.png" width="250" alt="Activity Visual Background" />
 </div>
 
-*Activities list showing running states, activity media playback with album art, and integrated remote control buttons*
+*Activities list showing running states, native remote control interface (PS5 example), and rich visual backgrounds*
 
 ### Entity Browser & Navigation
 
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/2c391b6f-a91f-4ebb-a617-83c84b731be6" width="250" alt="Entities Browser" />
-  <img src="https://github.com/user-attachments/assets/28e97b38-1325-425f-9d2a-288dc8bef7fc" width="250" alt="Navigation Drawer" />
-  <img src="https://github.com/user-attachments/assets/4252b807-a11d-4096-948b-11cc10e16f82" width="250" alt="Profile Selector" />
+   <img src="assets/entity_browser.png" width="250" alt="Home Assistant Entities" />
+  <img src="assets/nav_drawer.png" width="250" alt="Navigation Drawer" />
+  <img src="assets/profile_drawer.png" width="250" alt="Profile Selector" />
 </div>
 
-*Comprehensive entity browser with filtering, main navigation drawer, and profile selector with quick actions*
+*Comprehensive entity browser (Home Assistant example), main navigation drawer, and right-side profile selector with quick actions*
 
-### Settings & Configuration
-  <img src="https://github.com/user-attachments/assets/04b6b853-ad23-4d9f-8c44-c4f5e0143271" width="250" alt="Settings" />
-  <img src="https://github.com/user-attachments/assets/2080e60e-be39-4b57-af33-ddab1d8e8457" width="250" alt="Remotes List" />
-  <img src="https://github.com/user-attachments/assets/7cd08457-8185-45b6-9d73-9930b15cfbff" width="250" alt="Add Remote" />
+### Management & Setup
+
+<div align="center">
+  <img src="assets/remotes_list.png" width="250" alt="Remotes List" />
+  <img src="assets/add_remote_dialog.png" width="250" alt="Add New Remote" />
 </div>
 
-*App settings with theme and volume controls, remote device management, and easy remote connection setup*
-
-<details>
-  <summary><b>📱 View All Mobile Screenshots</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/f6323aae-dcd0-46ec-9855-20e1934c0902" width="280" alt="Main Interface" />
-    <img src="https://github.com/user-attachments/assets/09837953-ca96-4614-8b60-af6219c3420f" width="280" alt="Media Player" />
-    <img src="https://github.com/user-attachments/assets/caab4e33-a95e-49e0-b886-d8990e630b4f" width="280" alt="Light Control" />
-    <img src="https://github.com/user-attachments/assets/5b39544c-fc39-443e-8da8-3ba8fc4e0ca8" width="280" alt="Climate Control" />
-    <img src="https://github.com/user-attachments/assets/15633562-4b6b-4df2-9890-cbdb2b8eb87f" width="280" alt="Cover Control" />
-    <img src="https://github.com/user-attachments/assets/9c7e636a-d5d2-4035-8efe-710d14947f66" width="280" alt="Remote Control" />
-    <img src="https://github.com/user-attachments/assets/64020e3f-80ba-425f-953c-20e31aaa5e11" width="280" alt="Custom Pages" />
-    <img src="https://github.com/user-attachments/assets/3eb4173d-4f3d-48ab-95c4-e278f8376a6e" width="280" alt="Activities" />
-    <img src="https://github.com/user-attachments/assets/9d8649d7-f054-417f-b71d-5f09324499a4" width="280" alt="Entity Browser" />
-    <img src="https://github.com/user-attachments/assets/22672426-606d-4cc7-8f6c-6cdcfaea835c" width="280" alt="Integrations" />
-    <img src="https://github.com/user-attachments/assets/933c9ff7-1c1a-474f-9204-2f01574da3f3" width="280" alt="System Logs" />
-    <img src="https://github.com/user-attachments/assets/d77c9f3f-05c9-488f-be54-b7020cee5898" width="280" alt="Settings" />
-    <img src="https://github.com/user-attachments/assets/23859dec-8241-4c84-bb1e-eb0c3a781e7c" width="280" alt="Profile Selector" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📱 View Tablet & Foldable Screenshots</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/4f6a1af5-347f-4e1c-9a70-00d361a1fdda" width="450" alt="Tablet Main" />
-    <img src="https://github.com/user-attachments/assets/f2b1bb40-705d-4f19-9511-db5f03a3c27e" width="450" alt="Tablet Media" />
-    <img src="https://github.com/user-attachments/assets/ef3f3617-54a6-489c-b33a-f3aa09a0bc54" width="450" alt="Tablet Light" />
-    <img src="https://github.com/user-attachments/assets/a15a4b53-9816-46b6-85ba-5a5787063e9d" width="450" alt="Tablet Climate" />
-    <img src="https://github.com/user-attachments/assets/da922266-4daa-40c9-89f3-b40285a5fa57" width="450" alt="Tablet Cover" />
-    <img src="https://github.com/user-attachments/assets/f14863d3-470c-4e8f-b7fb-edcad6d2af11" width="450" alt="Tablet Remote" />
-    <img src="https://github.com/user-attachments/assets/1d437c86-82c4-487c-8091-1e5e6822a600" width="450" alt="Tablet Pages" />
-    <img src="https://github.com/user-attachments/assets/c3f50d73-3b2d-41f2-841b-742bcad0235b" width="450" alt="Tablet Activities" />
-    <img src="https://github.com/user-attachments/assets/24a058a9-6024-44ee-90bc-4e7ca85ad310" width="450" alt="Tablet Browser" />
-    <img src="https://github.com/user-attachments/assets/6914724e-5bda-44d1-9c06-dcc3ac7f4a28" width="450" alt="Tablet Integrations" />
-    <img src="https://github.com/user-attachments/assets/c3591839-dd38-4957-bc7e-a26fdafc8e67" width="450" alt="Tablet Logs" />
-    <img src="https://github.com/user-attachments/assets/383ede55-208e-4d46-9d62-136470035f1b" width="450" alt="Tablet Settings 1" />
-    <img src="https://github.com/user-attachments/assets/264493ce-7387-4f9d-b721-3ab71f96e8e8" width="450" alt="Tablet Settings 2" />
-    <img src="https://github.com/user-attachments/assets/7a768a31-19cb-4ab0-95ec-3320a51946ec" width="450" alt="Tablet Profile" />
-    <img src="https://github.com/user-attachments/assets/4803fd89-73d3-4e8a-ab20-333f6a88cd40" width="450" alt="Tablet Navigation" />
-    <img src="https://github.com/user-attachments/assets/df122cdb-7b21-41d2-afb5-21f3eed05df7" width="450" alt="Tablet Multi-Column" />
-  </p>
-</details>
+*Multi-remote management list and easy connection setup with auto-discovery support*
 
 ---
 
@@ -718,7 +675,7 @@ Contributions are welcome! Here's how you can help:
 
 *UC Remote Android - Your Remote, Your Phone, Your Control*
 
-![Version](https://img.shields.io/badge/version-1.4.4-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.4.5-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Android%208.0%2B-green?style=flat-square)
 ![Language](https://img.shields.io/badge/language-Kotlin-purple?style=flat-square)
 ![License](https://img.shields.io/badge/license-MPL--2.0-blue?style=flat-square)
