@@ -46,7 +46,7 @@ This app and all my integrations represent hundreds of hours of development and 
 </div>
 
 ---
-
+- 📱 **App Name: uc-remote** - [Direct Link to Play Store](https://play.google.com/store/apps/details?id=com.ucremote.android)
 ## 🎯 Features
 
 ### 📱 Device Management
